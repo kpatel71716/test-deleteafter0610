@@ -1,6 +1,6 @@
 [
     {
-        "route": "/httpServ/webhook011",
+        "route": "/httpServ/webhook01",
         "http_method": "POST",
         "function_name": "httpServ_webhook0",
         "validation_method": "SECRET_AS_QUERY_PARAM",
