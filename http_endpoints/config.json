@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "route": "/httpServ/webhook0",
+        "http_method": "POST",
+        "function_name": "httpServ_webhook0",
+        "validation_method": "SECRET_AS_QUERY_PARAM",
+        "respond_result": true,
+        "fetch_custom_user_data": false,
+        "create_user_on_auth": false,
+        "disabled": false
+    }
+]
