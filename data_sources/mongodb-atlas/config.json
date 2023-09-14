@@ -3,7 +3,12 @@
     "type": "mongodb-atlas",
     "config": {
         "clusterName": "DevSBCluster",
-        "readPreference": "primary",
+        "readPreference": "secondaryPreferred",
+        "readPreferenceTagSets": [
+            {
+                "": ""
+            }
+        ],
         "wireProtocolEnabled": true
     },
     "version": 1
