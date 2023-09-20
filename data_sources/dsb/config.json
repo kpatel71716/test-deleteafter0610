@@ -1,0 +1,10 @@
+{
+    "name": "dsb",
+    "type": "mongodb-atlas",
+    "config": {
+        "clusterName": "DevSBCluster",
+        "readPreference": "primary",
+        "wireProtocolEnabled": false
+    },
+    "version": 1
+}
