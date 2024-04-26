@@ -5,8 +5,8 @@
         "clusterName": "AtlasCluster",
         "namespacePreimageConfigs": [
             {
-                "dbName": "db",
-                "collectionName": "items",
+                "dbName": "dbt",
+                "collectionName": "dbc",
                 "recordPreimages": true
             }
         ],
