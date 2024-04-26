@@ -1,0 +1,40 @@
+[
+    {
+        "name": "Function_0",
+        "private": false,
+        "disable_arg_logs": true
+    },
+    {
+        "name": "sub",
+        "private": false,
+        "run_as_system": true,
+        "disable_arg_logs": true
+    },
+    {
+        "name": "redis_test",
+        "private": false,
+        "run_as_system": true,
+        "disable_arg_logs": true
+    },
+    {
+        "name": "sleepTwoMinutes",
+        "private": false,
+        "run_as_system": true,
+        "disable_arg_logs": true
+    },
+    {
+        "name": "testfunc",
+        "private": false,
+        "disable_arg_logs": true
+    },
+    {
+        "name": "system",
+        "private": false,
+        "run_as_system": true,
+        "disable_arg_logs": true
+    },
+    {
+        "name": "myFunc",
+        "private": true
+    }
+]
