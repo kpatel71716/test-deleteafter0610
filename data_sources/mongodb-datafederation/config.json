@@ -1,0 +1,8 @@
+{
+    "name": "mongodb-datafederation",
+    "type": "datalake",
+    "config": {
+        "dataLakeName": "FederatedDatabaseInstance0"
+    },
+    "version": 1
+}

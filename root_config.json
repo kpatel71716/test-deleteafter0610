@@ -1,0 +1,5 @@
+{
+    "name": "04_02_25_release",
+    "provider_region": "aws-us-east-1",
+    "deployment_model": "LOCAL"
+}
